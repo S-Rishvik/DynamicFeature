@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dynamic Delivery</string>
+    <string name="title_installtime">Install Time Delivery</string>
+    <string name="title_activity_install_time">InstallTimeActivity</string>
+    <string name="title_on_demand">On Demand Delivery</string>
+    <string name="title_activity_on_demand">OnDemandActivity</string>
+    <string name="title_intalltime">Module Title</string>
+</resources>
